@@ -1,0 +1,12 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+# This file should stay in sync with the following OWNERS:
+# - https://sigs.k8s.io/kwok/OWNERS
+
+approvers:
+  - Huang-Wei
+  - wzshiming
+  - yibozhuang
+
+labels:
+- sig/scheduling
